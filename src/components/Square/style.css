@@ -1,0 +1,20 @@
+
+.button{
+  background: linear-gradient(to left top, #D4ECDD,
+  rgba(175, 221, 235, 0.3));
+  border-style: none;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight:bold;
+  color:#112031;
+}
+.button:hover{
+  background: linear-gradient(to left top, #9ba19d,
+  rgba(150, 179, 187, 0.3));
+}
+.X {
+  color: rgb(67, 72, 73);
+}
+.O {
+  color: #1f9b4e81;
+}
